@@ -1,0 +1,948 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	搜索结果 - 宝贝回家寻子网 关爱儿童我们共同的责任
+</title><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><meta http-equiv="X-UA-Compatible" content="IE=7"><link href="css/style.css" rel="stylesheet" type="text/css"><link href="css/global.css" rel="stylesheet" type="text/css"><link href="css/nivoslider.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript"> 
+<!--
+ window.onerror = function(){ event.returnValue = true;}
+--> 
+</script>
+<script src="js/jquery-1.5.1.min.js" type="text/javascript"></script>
+<script src="js/jquery.nivo.slider.pack.js" type="text/javascript"></script> 
+<script src="js/formValidator-4.0.1.js" type="text/javascript" charset="UTF-8"></script>
+<script src="js/formValidatorRegex.js" type="text/javascript" charset="UTF-8"></script>
+<script src="js/swfobject_source.js" type="text/javascript"></script>
+<script src="js/tipswindown.js" type="text/javascript"></script>
+<script src="js/tbhb.js" type="text/javascript"></script>
+<script src="js/popImg.js" type="text/javascript"></script>
+<script src="js/loadimg.js" type="text/javascript"></script>
+<script src="js/jquery.rollGallery_yeso.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(window).load(function() {$("#KinSlideshow").nivoSlider();});
+</script>
+<script type="text/javascript">
+$(function () { $("#kefu_a").toggle(function () { $("#kf_img").attr("src", "/images/jian.jpg"); $("#kefu_b").show(); }, function () { $("#kf_img").attr("src", "/images/jia.jpg"); $("#kefu_b").hide(); }) })
+</script>
+<style type="text/css">
+.cimg{line-height:150px;height:150px;vertical-align:middle;}
+</style></head>
+<body>
+<!--[if lte IE 6]>
+<div id="ie6div" style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 35px; position: relative;line-height:35px;vertical-align:middle;'>    
+<div style='position: absolute; right: 3px; top: 3px; font-family: courier new; font-weight: bold;'>
+<a href='#' onclick='javascript:closediv(); return false;'>关闭</a>
+</div>    
+<div style='width: 640px; margin: 0 auto; text-align: left; padding: 0; overflow: hidden; color: black;'>      
+<div style='width: 75px; float: left;'>
+	<img src='/images/waring.png' alt='Warning!'/></div>      
+<div style='width: 275px; float: left; font-family: Arial, sans-serif;'>               
+<div style='font-size: 12px; margin-top: 6px; line-height: 12px;'>由于IE6的安全及对互联网标准的支持问题，建议您升级您的浏览器，已达到更好的浏览效果！</div>    
+</div>      
+<div style='width: 75px; float: left;'><a href='http://www.firefox.com' target='_blank'>
+	<img src="/images/ff.png" alt="下载firefox" title="下载firefox"/></a></div>      
+<div style='width: 75px; float: left;'><a href='http://windows.microsoft.com/zh-CN/internet-explorer/products/ie/home' target='_blank'>
+	<img src="/images/ie.png" alt="下载ie" title="下载ie"/></a></div>      
+<div style='width: 73px; float: left;'><a href='http://www.apple.com/safari/download/' target='_blank'>
+	<img src="/images/safari.png" alt="下载safari" title="下载safari"/></a></div>      
+<div style='float: left;'><a href='http://www.google.com/chrome' target='_blank'>
+	<img src="/images/chrome.png" alt="下载chrome" title="下载chrome"/></a></div>
+</div>  
+</div>
+<script type="text/javascript">
+function closediv(){
+document.getElementById('ie6div').style.display="none";
+}
+</script>
+<![endif]--><iframe name="show" width="0px" height="0px" style="display:none"></iframe>
+<div class="nav-top">
+<div class="nav-top_bar">
+<div class="nav-top_bar1">
+<!--<span style="padding-top:11px;">本站域名：http://www.baobeihuijia.com</span>-->
+<span style="padding-top:11px;display:block; width:260px;text-align:center; "><a href="/down/app/AgeFace.rar" style="font-size:14px;color:#009933;">年龄人像APP下载</a></span>
+<span>|</span>
+<span style="padding-top:11px;color:#ff0000;font-size:16px;font-weight:bold;">注意：本站所有寻亲帮助均为免费，宝贝回家不会以任何理由收取费用，请勿上当受骗。</span>
+</div>
+</div>
+</div>
+
+<div class="header">
+<div class="header_logo"><a href="/" style="display:block; width:240px; height:87px"><!--<img src="image/baby_header_logo.jpg" style="width:240px; height:87px; border: none;" />--></a></div>
+</div><div class="nav-main">
+    <div class="nav-main_channel">
+        <ul id="nav-main">
+            <li><a href="/index.aspx">首页</a></li>
+            <li><a href="/find.aspx">寻亲登记</a>
+                <ul>
+                    <li><a href="/find.aspx?type=1&amp;step=2">家寻宝贝</a></li>
+                    <li><a href="/find.aspx?type=2&amp;step=2">宝贝寻家</a></li>
+                    <li><a href="/find.aspx?type=3&amp;step=2">流浪乞讨</a></li>
+                    <li><a href="/find.aspx?type=4&amp;step=2">其他寻人</a></li>
+                    <li><a href="/find.aspx?type=5&amp;step=2">海外寻亲</a></li>
+                </ul>
+            </li>
+            <li><a href="/volunteer_reg.aspx">志愿者登记</a></li>
+            <li><a href="http://bbs.baobeihuijia.com/forum.php?mod=forumdisplay&amp;fid=182">社会新闻</a></li>
+            <li><a href="/tv.aspx">相关视频</a></li>
+            <li><a href="http://bbs.baobeihuijia.com/forum.php?mod=forumdisplay&amp;fid=203">紧急求助</a></li>
+            <li><a href="http://bbs.baobeihuijia.com/">论坛</a></li>
+	    <li><a href="http://dw.baobeihuijia.com/">党建平台</a></li>
+        </ul>
+<script type="text/javascript">
+    function menuFix() {
+        var sfEls = document.getElementById("nav-main").getElementsByTagName("li");
+        for (var i = 0; i < sfEls.length; i++) {
+            sfEls[i].onmouseover = function() { this.className += (this.className.length > 0 ? " " : "") + "sfhover"; };
+            sfEls[i].onMouseDown = function() { this.className += (this.className.length > 0 ? " " : "") + "sfhover"; };
+            sfEls[i].onMouseUp = function() { this.className += (this.className.length > 0 ? " " : "") + "sfhover"; };
+            sfEls[i].onmouseout = function() { this.className = this.className.replace(new RegExp("( ?|^)sfhover\\b"), ""); };
+        }
+    }
+    window.onload = menuFix;
+</script>
+    </div> 
+    <div class="nav-main_report">
+        <div class="nav-main_report1">
+            <span><a href=""><img src="/images/baby_nav_main_report_lb.gif" style="width: 25px;height: 25px;border: none;" alt=""></a></span>
+        </div> 
+        <div class="nav-main_report2">
+            <div id="nav-main_scrolling">
+                <ul id="nav-main_scrolling_ul">
+                    <li><a target="_blank" href="/notice.aspx?id=4">【简介】宝贝回家寻子网</a></li>
+                </ul>
+<script type="text/javascript">
+    var Marquee = function (A, B, C, D, E, F) {
+        var $ = function (id) { return document.getElementById(id); }, Y = +!!F;
+        (A = $(A)).appendChild((B = $(B)).cloneNode(true));
+        (function() {
+            var m = A.scrollTop % C ? (E || 0) : D;
+            A.scrollTop = [0, B.offsetHeight][Y] == A.scrollTop ? [B.offsetHeight - 1, 1][Y] : (A.scrollTop + [-1, 1][Y]);
+            setTimeout(arguments.callee, m);
+        })();
+        return arguments.callee;
+    }
+Marquee('nav-main_scrolling', 'nav-main_scrolling_ul', 24, 8000, 30, 1);
+</script><ul id="nav-main_scrolling_ul">
+                    <li><a target="_blank" href="/notice.aspx?id=4">【简介】宝贝回家寻子网</a></li>
+                </ul>
+            </div>
+        </div> 
+<form action="/result.aspx" method="POST" name="form_nav" id="form_nav">
+    <div class="nav-main_report3">
+        <span>
+            <input type="hidden" name="type" value="1">
+            <input type="text" name="key" id="query" value="" autocomplete="off">
+        </span>
+    </div> 
+    <div class="nav-main_report4">
+        <span>&nbsp;&nbsp;<input id="subn" value="      " type="submit" class="scorll_subn" style="cursor:pointer;"></span>
+        <span>&nbsp;<a href="/so.aspx"><img src="/images/baby_nav_main_gjss.jpg" alt="" border="0"></a> </span>
+    </div>
+</form>
+<script src="/js/jquery.autocomplete-min.js" type="text/javascript"></script>
+<script type="text/javascript">
+var options, a;
+jQuery(function () {
+    options = { serviceUrl: 'look.aspx' };
+    a = $('#query').autocomplete(options);
+});
+</script> 
+    </div> 
+</div>
+<div class="page-space">&nbsp;</div><!-- sou -->
+<form action="/result.aspx" method="POST" name="form_sou" id="form_sou">
+    <input type="hidden" name="type" value="3">
+    <table cellpadding="0" cellspacing="0" border="0" id="searcher" style="width:970px; margin: 10px auto;background-color: #f5fff0; border: 1px #92C22E solid; ">
+        <tbody><tr>
+            <td style="text-align: center;font-weight: bold;height:39px;line-height:39px;width:80px;color:#4F9C00;">站内搜索</td>
+            <td style="height:39px;line-height:39px;width:560px;">
+                <select name="findtype" id="findtype">
+                    <option value="">找寻类型</option>
+                    <option value="1">家寻宝贝</option>
+                    <option value="2">宝贝寻家</option>
+                    <option value="3">流浪乞讨</option>
+                    <option value="4">其他寻人</option>
+                    <option value="5">海外寻亲</option>
+                </select>
+                <select name="sex" id="sex">
+                    <option value="">性别</option>
+                    <option value="2">未知</option>
+                    <option value="1">男</option>
+                    <option value="0">女</option>
+                </select>
+                <select name="datetype" id="datetype">
+                    <option value="1">失踪日期</option>
+                    <option value="2">出生日期</option>
+                </select>
+                <select name="beginyear" id="beginyear">
+                    <option value="">起始年</option>
+                    <option value="2020">2020</option><option value="2019">2019</option><option value="2018">2018</option><option value="2017">2017</option><option value="2016">2016</option><option value="2015">2015</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option><option value="1913">1913</option><option value="1912">1912</option>
+                </select>
+                <select name="beginmonth" id="beginmonth">
+                    <option value="1">起始月</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>`
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+                </select>
+                <select name="endyear" id="endyear">
+                    <option value="">终止年</option>
+                    <option value="2020">2020</option><option value="2019">2019</option><option value="2018">2018</option><option value="2017">2017</option><option value="2016">2016</option><option value="2015">2015</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option><option value="1913">1913</option><option value="1912">1912</option>            
+                </select>
+                <select name="endmonth" id="endmonth">
+                    <option value="12">终止月</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+
+                </select>
+                <select name="prov" id="prov">
+                    <option value="">籍贯</option>
+                    <option value="北京">北京</option>
+                    <option value="天津">天津</option>
+                    <option value="河北">河北</option>
+                    <option value="山西">山西</option>
+                    <option value="内蒙古">内蒙古</option>
+                    <option value="辽宁">辽宁</option>
+                    <option value="吉林">吉林</option>
+                    <option value="黑龙江">黑龙江</option>
+                    <option value="上海">上海</option>
+                    <option value="江苏">江苏</option>
+                    <option value="浙江">浙江</option>
+                    <option value="安徽">安徽</option>
+                    <option value="福建">福建</option>
+                    <option value="江西">江西</option>
+                    <option value="山东">山东</option>
+                    <option value="河南">河南</option>
+                    <option value="湖北">湖北</option>
+                    <option value="湖南">湖南</option>
+                    <option value="广东">广东</option>
+                    <option value="广西">广西</option>
+                    <option value="海南">海南</option>
+                    <option value="重庆">重庆</option>
+                    <option value="四川">四川</option>
+                    <option value="贵州">贵州</option>
+                    <option value="云南">云南</option>
+                    <option value="西藏">西藏</option>
+                    <option value="陕西">陕西</option>
+                    <option value="甘肃">甘肃</option>
+                    <option value="青海">青海</option>
+                    <option value="宁夏">宁夏</option>
+                    <option value="新疆">新疆</option>
+                </select>
+            </td>
+            <td style="text-align: center;height:39px;line-height:39px;width:60px;color:#4F9C00;">关键字：</td>
+            <td>
+                <input name="keyword" type="text" id="keyword" style="width:80px;">
+                <select name="by" id="by">
+                    <option value="">按照？</option>
+                    <option value="1">姓名</option>
+                    <option value="2">特征</option>
+                    <option value="3">编号</option>
+                    <option value="4">失踪地点</option>
+                </select>
+                <input type="submit" name="submit" value=" 搜 索 ">
+            </td>
+        </tr>
+    </tbody></table>
+</form>
+<!-- souend -->
+<!--content-->
+<style type="text/css">
+.GridView{border: 0px solid #90c757; padding:4px;text-align: center; height:25px; line-height:25px;color: #000;width:950px;margin: 8px auto;}
+.HeaderStyle{height:28px;line-height:28px; font-weight:bolder; color:#4f9c00; border:1px #90c757 solid;border-top: 1px #67bc00 solid;background-color: #a7d98e;}
+.Header2{background:#f1fbec;}
+.AlternatingRowStyle{ background:#f1fbec}
+.RowStyle td,.AlternatingRowStyle td{border:1px #beeba7 solid; height:30px;}
+</style>
+    <form name="form1" method="post" action="result.aspx" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="20C6E8CA">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCgL16ZSRBALdlsfRCQKDoZzxDgKV++rtBQKNidimAwKwg+6gCALRn4y5AwL+8ff2BAK2hc74CgKS2cPhAfxiky9Uf3qOEe/MmnSwQbJzECbA">
+</div>
+<table cellpadding="0" cellspacing="0" style="margin: 8px auto;width: 970px; background-color: #fff; border: 1px #e0e0e0 solid">
+	<tbody><tr style="height: 35px; line-height: 35px;">
+		<td style="width:40px; height: 26px; text-align:right;"><img alt="" src="images/icon.gif" style="width:36px;height:36px;"></td>
+		<td style="width:10px;"></td>
+		<td style="width:300px;"><span id="lbCount">此次查询共找到【51095】条记录！</span></td>
+		<td style="width:610px; color:#ff0000">(点击“ID”、“出生日期”、“失踪日期”可进行搜索结果数据的升、降序排序！)</td>
+	</tr>
+    <tr><td style="height:3px;" colspan="4"></td></tr>
+	<tr>
+	<td colspan="4">
+        <div>
+	<table class="GridView" cellspacing="0" rules="all" border="1" id="GridView1" style="border-collapse:collapse;">
+		<tbody><tr class="HeaderStyle">
+			<th scope="col" style="white-space:nowrap;"><a href="javascript:__doPostBack('GridView1','Sort$ID')">ID↑</a></th><th scope="col" style="white-space:nowrap;">类别</th><th scope="col" style="white-space:nowrap;">姓名</th><th scope="col" style="white-space:nowrap;">性别</th><th scope="col" style="white-space:nowrap;"><a href="javascript:__doPostBack('GridView1','Sort$BirthDate')">出生日期↑</a></th><th scope="col" style="white-space:nowrap;">失踪/发现地点</th><th scope="col" style="white-space:nowrap;"><a href="javascript:__doPostBack('GridView1','Sort$LostDate')">失踪/发现时间↑</a></th><th scope="col" style="white-space:nowrap;">特征</th><th scope="col">详情</th>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2237</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        张新晓
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1994-11-24
+                    </td><td style="width:190px;">
+                        新疆乌鲁木齐市南湖广场
+                    </td><td style="width:80px;">
+                        2004-06-19
+                    </td><td>
+                        男
+                    </td><td style="width:50px;"><a href="view.aspx?id=2237" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2249</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        三娃(徐海..
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1988-07-01
+                    </td><td style="width:190px;">
+                        四川省南充市仪陇县双河场
+                    </td><td style="width:80px;">
+                        1992-11-26
+                    </td><td>
+                        徐海珑（三娃），1988年7月出生，男孩，读..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2249" target="_blank">详情</a></td>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2250</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        沈娜
+                    </td><td style="width:40px;">
+                        女
+                    </td><td style="width:80px;">
+                        1985-01-01
+                    </td><td style="width:190px;">
+                        湖北省武汉市洪山区
+                    </td><td style="width:80px;">
+                        1999-06-12
+                    </td><td>
+                        无
+                    </td><td style="width:50px;"><a href="view.aspx?id=2250" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2255</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        廖哲伟
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1996-12-30
+                    </td><td style="width:190px;">
+                        湖北省,仙桃市小寺院村四组 
+                    </td><td style="width:80px;">
+                        2006-03-02
+                    </td><td>
+                        该男孩有口吃，并中度耳聋，并戴有助听器,..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2255" target="_blank">详情</a></td>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2264</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        付龙龙
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1990-05-01
+                    </td><td style="width:190px;">
+                        湖北省孝感市大悟县
+                    </td><td style="width:80px;">
+                        2006-01-05
+                    </td><td>
+                        付龙龙，男，1990年5月出生，湖北省大悟县..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2264" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2267</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        张欣
+                    </td><td style="width:40px;">
+                        女
+                    </td><td style="width:80px;">
+                        1996-07-02
+                    </td><td style="width:190px;">
+                        山东省青岛市大埠东小区
+                    </td><td style="width:80px;">
+                        2006-09-09
+                    </td><td>
+                        身高1、4米左右、单眼皮、门牙右第二颗畸形..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2267" target="_blank">详情</a></td>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2268</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        王媛
+                    </td><td style="width:40px;">
+                        女
+                    </td><td style="width:80px;">
+                        2000-08-27
+                    </td><td style="width:190px;">
+                        山东省青岛市大埠东小区
+                    </td><td style="width:80px;">
+                        2006-09-09
+                    </td><td>
+                        身高1、2米左右、大眼睛、双眼皮、门牙发黑..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2268" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2269</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        彭吉
+                    </td><td style="width:40px;">
+                        女
+                    </td><td style="width:80px;">
+                        1995-01-01
+                    </td><td style="width:190px;">
+                        广东省茂名市人民广场
+                    </td><td style="width:80px;">
+                        2006-07-14
+                    </td><td>
+                        彭吉，女，11岁，身高1．45米左右，贵州省..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2269" target="_blank">详情</a></td>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2270</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        张丽梅
+                    </td><td style="width:40px;">
+                        女
+                    </td><td style="width:80px;">
+                        1994-01-01
+                    </td><td style="width:190px;">
+                        甘肃省
+                    </td><td style="width:80px;">
+                        2007-03-01
+                    </td><td>
+                        上身穿粉红色夹克服,下穿大红休闲裤,现家人..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2270" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2271</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        冯宇琪
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        2000-01-01
+                    </td><td style="width:190px;">
+                        贵州省铜仁市金讯商厦
+                    </td><td style="width:80px;">
+                        2004-03-06
+                    </td><td>
+                        冯宇琪，男，4岁半，身高1.05米，浙江省台..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2271" target="_blank">详情</a></td>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2273</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        赵奎 
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        2004-09-29
+                    </td><td style="width:190px;">
+                        陕西省汉中市镇巴县农贸市场..
+                    </td><td style="width:80px;">
+                        2007-02-24
+                    </td><td>
+                        走失时头戴白底黑点的斑点狗帽子，上穿桔红..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2273" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2284</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        朱元坤(坤..
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1999-11-14
+                    </td><td style="width:190px;">
+                        台州市仙居县朱溪镇
+                    </td><td style="width:80px;">
+                        2006-04-29
+                    </td><td>
+                        男8岁,小眼单眼皮小嘴,于4月29日下午在家附..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2284" target="_blank">详情</a></td>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2287</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        张星宇
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        2002-03-19
+                    </td><td style="width:190px;">
+                        重庆市江北农场粮食仓库
+                    </td><td style="width:80px;">
+                        2005-03-20
+                    </td><td>
+                        张星宇，男，3岁。于3月20日在家附近（江北..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2287" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2299</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        徐文亮
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1992-05-26
+                    </td><td style="width:190px;">
+                        广东省,广州市,广州花都区大..
+                    </td><td style="width:80px;">
+                        2000-11-29
+                    </td><td>
+                        性格内向 自小爱好武术 
+                    </td><td style="width:50px;"><a href="view.aspx?id=2299" target="_blank">详情</a></td>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2303</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        马锦涛
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        2000-04-03
+                    </td><td style="width:190px;">
+                        陕西省洋县城
+                    </td><td style="width:80px;">
+                        2003-12-14
+                    </td><td>
+                        圆脸蛋，大眼睛，后脑稍平，有小儿疝气，身..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2303" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2315</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        桑泽辉
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1997-01-01
+                    </td><td style="width:190px;">
+                        河北省石家庄市长安区南翟营..
+                    </td><td style="width:80px;">
+                        2005-04-24
+                    </td><td>
+                        桑泽辉，男，失踪时8岁，于2005年4月24日下..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2315" target="_blank">详情</a></td>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2325</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        秦志豪
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1995-09-15
+                    </td><td style="width:190px;">
+                        重庆市石柱县南滨镇农机大厦
+                    </td><td style="width:80px;">
+                        2003-01-28
+                    </td><td>
+                        男、重庆石柱县人，1995年9月出生。身高
+                    </td><td style="width:50px;"><a href="view.aspx?id=2325" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2346</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        陈智
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1989-02-22
+                    </td><td style="width:190px;">
+                        重庆市江北区华新街
+                    </td><td style="width:80px;">
+                        2001-04-14
+                    </td><td>
+                        陈智：男 左眉毛上有伤疤，右耳发也有伤疤..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2346" target="_blank">详情</a></td>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2347</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        彭东乐
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        2001-01-01
+                    </td><td style="width:190px;">
+                        广东省广州市天河区棠下好又..
+                    </td><td style="width:80px;">
+                        2006-08-31
+                    </td><td>
+                        小名东东，身高1米右左，体重约15公斤,体形..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2347" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2348</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        杨凤
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        2002-09-01
+                    </td><td style="width:190px;">
+                        贵州省贵阳市太慈桥青山小区
+                    </td><td style="width:80px;">
+                        2006-09-23
+                    </td><td>
+                        体形正常，瓜子脸，五官端正，大眼睛，双眼..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2348" target="_blank">详情</a></td>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2349</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        温亚磊（照..
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1990-01-01
+                    </td><td style="width:190px;">
+                        河北省石家庄市桥西区支农路..
+                    </td><td style="width:80px;">
+                        2000-01-01
+                    </td><td>
+                        方脸，右鼻孔侧有一小疤，讲石家庄普通话，..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2349" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2350</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        黄开俊
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        2001-01-01
+                    </td><td style="width:190px;">
+                        广东省江门市丹灶
+                    </td><td style="width:80px;">
+                        2006-07-04
+                    </td><td>
+                        小名小胖子，由于跟着父母到广东江门丹灶去..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2350" target="_blank">详情</a></td>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2351</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        张志翔(乳..
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1974-04-06
+                    </td><td style="width:190px;">
+                        四川石棉县楠桠河
+                    </td><td style="width:80px;">
+                        1981-04-06
+                    </td><td>
+                        该孩无任何胜利缺陷，手腕处有一不明显鸡蛋..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2351" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2381</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        刘楠
+                    </td><td style="width:40px;">
+                        女
+                    </td><td style="width:80px;">
+                        1996-01-01
+                    </td><td style="width:190px;">
+                        黑龙江省大庆市红岗区杏五井..
+                    </td><td style="width:80px;">
+                        2006-09-11
+                    </td><td>
+                        朋友们.你们好：这个小女孩是我妹妹于2006..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2381" target="_blank">详情</a></td>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2383</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        胡寿蓬
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1993-01-01
+                    </td><td style="width:190px;">
+                        福建省石狮市服装城工地
+                    </td><td style="width:80px;">
+                        2006-07-10
+                    </td><td>
+                        胡寿蓬，男，现年13岁，身高140cm，家住四..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2383" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2388</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        赵紫祺
+                    </td><td style="width:40px;">
+                        女
+                    </td><td style="width:80px;">
+                        未知时间
+                    </td><td style="width:190px;">
+                        河北省廊坊市固安县渠沟乡南..
+                    </td><td style="width:80px;">
+                        未知时间
+                    </td><td>
+                        圆脸短发
+                    </td><td style="width:50px;"><a href="view.aspx?id=2388" target="_blank">详情</a></td>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2391</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        易晨
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1998-01-01
+                    </td><td style="width:190px;">
+                        陕西省西安市未央区西三村
+                    </td><td style="width:80px;">
+                        未知时间
+                    </td><td>
+                        无
+                    </td><td style="width:50px;"><a href="view.aspx?id=2391" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2395</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        赵涵锐
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1997-09-02
+                    </td><td style="width:190px;">
+                        陕西省西安市临潼区斜口镇柳..
+                    </td><td style="width:80px;">
+                        2006-09-08
+                    </td><td>
+                        出生于1998年，失踪时九岁，当时身高一米二..
+                    </td><td style="width:50px;"><a href="view.aspx?id=2395" target="_blank">详情</a></td>
+		</tr><tr class="RowStyle">
+			<td style="width:50px;white-space:nowrap;">2408</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        宛鹏清
+                    </td><td style="width:40px;">
+                        女
+                    </td><td style="width:80px;">
+                        1992-05-01
+                    </td><td style="width:190px;">
+                        湖北省黄梅县
+                    </td><td style="width:80px;">
+                        2007-04-25
+                    </td><td>
+                        宛鹏青
+                    </td><td style="width:50px;"><a href="view.aspx?id=2408" target="_blank">详情</a></td>
+		</tr><tr class="AlternatingRowStyle">
+			<td style="width:50px;white-space:nowrap;">2409</td><td style="width:60px;">
+                        家寻宝贝
+                    </td><td style="width:100px;">
+                        陈超小名：..
+                    </td><td style="width:40px;">
+                        男
+                    </td><td style="width:80px;">
+                        1990-03-17
+                    </td><td style="width:190px;">
+                        贵州贵阳市大营坡被拐
+                    </td><td style="width:80px;">
+                        1994-09-14
+                    </td><td>
+                        无
+                    </td><td style="width:50px;"><a href="view.aspx?id=2409" target="_blank">详情</a></td>
+		</tr><tr>
+			<td colspan="9">
+                <a id="GridView1_ctl33_lbFirst" href="javascript:__doPostBack('GridView1$ctl33$lbFirst','')">首页 </a>
+                <a id="GridView1_ctl33_lbPrev" href="javascript:__doPostBack('GridView1$ctl33$lbPrev','')">上一页 </a>
+                <a id="GridView1_ctl33_lbNext" href="javascript:__doPostBack('GridView1$ctl33$lbNext','')">下一页 </a>
+                <a id="GridView1_ctl33_lbLast" href="javascript:__doPostBack('GridView1$ctl33$lbLast','')">尾页 </a>
+                 第 <span id="GridView1_ctl33_Label2">2</span>页
+                共 <span id="GridView1_ctl33_Label1">1704</span>页
+                跳到 <input name="GridView1$ctl33$tbPage" type="text" value="2" id="GridView1_ctl33_tbPage" style="width:27px;">
+                <a id="GridView1_ctl33_lbGO" href="javascript:__doPostBack('GridView1$ctl33$lbGO','')">转到</a>
+            </td>
+		</tr>
+	</tbody></table>
+</div>
+    </td>
+	</tr>
+</tbody></table>
+    </form>
+<!--contentend-->    
+<!--footer-->
+<div class="footer">
+<div class="footer_line"></div>
+<div class="footer_line2"></div>
+<div class="footer_link">
+<span style="float:left;height:42px;line-height:42px;width:70px;color:#333333;font-weight:bold;font-size:12px;">友情链接：</span>
+<div id="footer_links" class="scrollbox">
+    <ul id="links_list">
+        <li leight="9">
+			<a target="_blank" href="https://www.wukongyouai.com/"> <img src="/photo/link/2020081501.jpg" height="34"></a>
+            <a target="_blank" href="https://www.pcijia.com/"> <img src="/photo/link/181219-2.png" height="34"></a>
+            <a target="_blank" href="http://www.pcitech.com/">
+                <img src="/photo/link/181219-1.jpg" height="34"></a>
+	    <a target="_blank" href="http://dengzhewo.cctv.com/">
+                <img src="/photo/link/2015011500000000000001.jpg" height="34"></a>
+            <a target="_blank" href="http://www.cpd.com.cn/">
+                <img src="/photo/link/1655175iktokjc6kptk56i.jpg" height="34"></a>
+		<a target="_blank" href="http://hjdxw.ccafc.org.cn/">
+                <img src="/photo/link/2015012300000000000001.png" height="34"></a>
+        <a target="_blank" href="http://xunqin.mca.gov.cn/xunqinweb/">
+                <img src="/photo/link/201601020001.jpg" height="34"></a>  
+		<a target="_blank" title="西部数码" href="https://www.west.cn/">
+                <img alt="云服务器" src="/photo/link/westlogo.jpg" height="34"></a>		
+        </li>
+    <li leight="9">
+			<a target="_blank" href="https://www.wukongyouai.com/"> <img src="/photo/link/2020081501.jpg" height="34"></a>
+            <a target="_blank" href="https://www.pcijia.com/"> <img src="/photo/link/181219-2.png" height="34"></a>
+            <a target="_blank" href="http://www.pcitech.com/">
+                <img src="/photo/link/181219-1.jpg" height="34"></a>
+	    <a target="_blank" href="http://dengzhewo.cctv.com/">
+                <img src="/photo/link/2015011500000000000001.jpg" height="34"></a>
+            <a target="_blank" href="http://www.cpd.com.cn/">
+                <img src="/photo/link/1655175iktokjc6kptk56i.jpg" height="34"></a>
+		<a target="_blank" href="http://hjdxw.ccafc.org.cn/">
+                <img src="/photo/link/2015012300000000000001.png" height="34"></a>
+        <a target="_blank" href="http://xunqin.mca.gov.cn/xunqinweb/">
+                <img src="/photo/link/201601020001.jpg" height="34"></a>  
+		<a target="_blank" title="西部数码" href="https://www.west.cn/">
+                <img alt="云服务器" src="/photo/link/westlogo.jpg" height="34"></a>		
+        </li></ul>	  
+</div>
+</div>
+<div class="footer_copyright">
+<p>备案信息：<a href="http://beian.miit.gov.cn/">吉ICP备08101543号-1</a>　　法律声明　　<bgsound id="bgs" loop="infinite" src="">
+<a id="clicksg" href="javascript:clicksg();">打开背景音乐</a>　　背景音乐名《别让妈妈的世界泪雨飞》
+<a href="/images/bgmusic.wma" target="_blank">点击下载</a></p>
+    <p>版权所有 © 2007-2020 <a href="https://www.baobeihuijia.com/">宝贝回家志原者协会</a> All Rights Reserved</p>
+    <p><a href="https://www.west.cn/" target="_blank" "="">云服务器</a>支持： <a href="https://www.west.cn/" target="_blank" style="margin-right: 10px;">西部数码</a> 技术支持： DO<font style="color:#ff0000;">V</font>ING <a href="http://www.doving.cn/" target="_blank" style="margin-right: 10px;">度维</a>  SSL证书服务支持：<a href="https://www.trustasia.com" target="_blank" style="margin-right: 10px;">亚洲诚信</a><br>法律顾问：北京市百瑞律师事务所&nbsp;张志伟律师&nbsp;|&nbsp;吉林吉天行（通化）律师事务所&nbsp;张馨律师</p>
+<script src="https://s13.cnzz.com/z_stat.php?id=5232866&amp;web_id=5232866" language="JavaScript"></script><script src="https://c.cnzz.com/core.php?web_id=5232866&amp;t=z" charset="utf-8" type="text/javascript"></script><a href="https://www.cnzz.com/stat/website.php?web_id=5232866" target="_blank" title="站长统计">站长统计</a>
+</div>
+<script type="text/javascript"> 
+    function clicksg() {
+        var txt = $('#clicksg').text();
+        if (txt == '打开背景音乐') {
+            $("#bgs").attr({ src: "images/bgmusic.wma" });
+            $('#clicksg').text('关闭背景音乐');
+        } else {
+            $("#bgs").attr({ src: "" });
+            $('#clicksg').text('打开背景音乐');
+        }
+    }
+</script>
+<script type="text/javascript">
+    $(document).ready(function ($) {
+        $("#links_list").rollGallery({
+            direction: "left",
+            speed: 2000,
+            showNum: 1
+        });
+
+    });
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-133539351-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-133539351-3');
+</script>
+
+</div>
+
+<!--footer end--><div id="kefu" style="top: 0px;">  
+<div id="kefu_b" style="display: none; height:290px;">
+<p style="padding-left:9px;height:25px;line-height:30px;vertical-align:middle;"><b>在线咨询：</b></p>
+<div id="kefu_img" style="height:39px;margin-top:10px;">
+    <div style="width:175px;margin:0 auto;">
+    <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=38a28540bd0f7c0334cad60f0f51c5ebe12304f95e18579cedf5050e4927ff93"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="宝贝回家全国接待群" title="宝贝回家全国接待群"></a>
+    </div>
+</div>
+<div id="kefu_photo">
+<p>电话：0435-3338090</p>
+<p>信箱：baobeihuijia@yeah.net</p>
+<p>服务时间：08:00-11:30</p>
+<p>　　　　　13:00-16:30</p>
+<p>　　　　　18:00-23:00</p>
+<p>地址：吉林省通化市和平路685号</p>
+<p>邮编：134000</p>
+<p>新浪微博群号：117543，127590</p>
+<p>全国接待QQ群：1840533</p>
+</div>
+</div>
+<div id="kefu_a"><div id="kefu_a2" style="cursor:pointer;"></div></div>
+</div>
+<script type="text/javascript">
+    var s = 0;
+    function gd() {
+        if (document.documentElement && document.documentElement.scrollTop) {//如果定义文档类型
+            a = document.documentElement.scrollTop;
+        }
+        else if (document.body) {//如果没有定义文档类型
+            a = document.body.scrollTop;
+        }
+        p = 0.1 * (a - s);
+        document.getElementById("kefu").style.top = s + "px";
+        s = s + p;
+    }
+    setInterval("gd()", 1);
+</script>
+<script type="text/javascript">
+    //修正客服在线状态图标
+    var offlinepic = 'images/q2.jpg';
+    if (online[0] == 0) { $("#keonline0").attr('src', offlinepic); }
+    if (online[1] == 0) { $("#keonline1").attr('src', offlinepic); }
+    if (online[2] == 0) { $("#keonline2").attr('src', offlinepic); }
+    if (online[3] == 0) { $("#keonline3").attr('src', offlinepic); }
+    if (online[4] == 0) { $("#keonline4").attr('src', offlinepic); }
+</script>
+
+
+<div id="AutocompleteContainter_c55b2" style="position: absolute; z-index: 9999; top: 268px; left: 626px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_c55b2" style="display: none; width: 160px; max-height: 300px;"></div></div></div></body></html>

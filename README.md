@@ -24,7 +24,7 @@
 
 ### 1. 解析爬下来的所有页面
 
-仔细观察可以看到页面最左边的一列是ID，这也每个人的唯一标识，并且可以通过这个网页访问到详细信息https://www.baobeihuijia.com/view.aspx?id=446331，只要替换到后面的ID就可以了。因此这里就是用`BeautifulSoup`来对页面进行解析，提取出所有的ID信息。不得不说`Beautiful`真好用...这是我[总结](https://blog.csdn.net/weixin_42763696/article/details/108712503)的使用方法。
+仔细观察可以看到页面最左边的一列是ID，这也每个人的唯一标识，并且可以通过这个网页访问到详细信息[https://www.baobeihuijia.com/view.aspx?id=446331](https://www.baobeihuijia.com/view.aspx?id=446331)，只要替换到后面的ID就可以了。因此这里就是用`BeautifulSoup`来对页面进行解析，提取出所有的ID信息。不得不说`Beautiful`真好用...这是我[总结](https://blog.csdn.net/weixin_42763696/article/details/108712503)的使用方法。
 
 解析的最终结果是将ID保存在一个大列表中，然后存储到了pickle文件中，如下图所示。
 
